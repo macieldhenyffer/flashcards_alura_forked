@@ -1,11 +1,11 @@
 :root {
     --text-color: #000000;
-    --card-front-color: #e2844d;
-    --card-back-color: #fa000046;
+    --card-front-color: #9899e4;
+    --card-back-color: #020202;
 }
 
 body {
-    background: linear-gradient(to bottom, #2e2e2e, #bfbfbf);
+    background: linear-gradient(to bottom, #2e2e2e, #000000);
     font-family: 'Bai Jamjuree', sans-serif;
 }
 
